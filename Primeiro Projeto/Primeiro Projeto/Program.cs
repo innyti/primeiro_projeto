@@ -95,13 +95,13 @@ void AvaliarUmaBanda()
     Console.Clear();
     ExibirTituloDaOpcao("Avaliar banda");
     Console.Write("Digite o nome da banda que deseja avaliar");
-    string nomeDaBanda =  Console.ReadLine()!;
+    string nomeDaBanda = Console.ReadLine()!;
     if (bandasRegistradas.ContainsKey(nomeDaBanda))
     {
 
     } else
     {
-        Console.WriteLine($"A banda {nomeDaBanda} n]ao foi encontrada");
+        Console.WriteLine($"A banda {nomeDaBanda} não foi encontrada");
         Console.WriteLine("Digite uma tecla para voltar ao menu principal");
         Console.ReadKey();
         ExibirOpcoesDoMenu();
