@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\REPOS\\primeiro_projeto\\Primeiro Projeto\\Primeiro Projeto\\Primeiro Projeto.csproj": {}
+    "C:\\REPOS\\Primeiro_Projeto\\Primeiro Projeto\\Primeiro Projeto\\Primeiro Projeto.csproj": {}
   },
   "projects": {
-    "C:\\REPOS\\primeiro_projeto\\Primeiro Projeto\\Primeiro Projeto\\Primeiro Projeto.csproj": {
+    "C:\\REPOS\\Primeiro_Projeto\\Primeiro Projeto\\Primeiro Projeto\\Primeiro Projeto.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\REPOS\\primeiro_projeto\\Primeiro Projeto\\Primeiro Projeto\\Primeiro Projeto.csproj",
+        "projectUniqueName": "C:\\REPOS\\Primeiro_Projeto\\Primeiro Projeto\\Primeiro Projeto\\Primeiro Projeto.csproj",
         "projectName": "Primeiro Projeto",
-        "projectPath": "C:\\REPOS\\primeiro_projeto\\Primeiro Projeto\\Primeiro Projeto\\Primeiro Projeto.csproj",
+        "projectPath": "C:\\REPOS\\Primeiro_Projeto\\Primeiro Projeto\\Primeiro Projeto\\Primeiro Projeto.csproj",
         "packagesPath": "C:\\Users\\inawr\\.nuget\\packages\\",
-        "outputPath": "C:\\REPOS\\primeiro_projeto\\Primeiro Projeto\\Primeiro Projeto\\obj\\",
+        "outputPath": "C:\\REPOS\\Primeiro_Projeto\\Primeiro Projeto\\Primeiro Projeto\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\inawr\\AppData\\Roaming\\NuGet\\NuGet.Config",
